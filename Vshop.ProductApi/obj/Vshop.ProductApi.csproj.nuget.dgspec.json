@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Vshop.ProductApi\\Vshop.ProductApi.csproj": {}
+  },
+  "projects": {
+    "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Vshop.ProductApi\\Vshop.ProductApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Vshop.ProductApi\\Vshop.ProductApi.csproj",
+        "projectName": "Vshop.ProductApi",
+        "projectPath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Vshop.ProductApi\\Vshop.ProductApi.csproj",
+        "packagesPath": "C:\\Users\\Vo\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Vshop.ProductApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
