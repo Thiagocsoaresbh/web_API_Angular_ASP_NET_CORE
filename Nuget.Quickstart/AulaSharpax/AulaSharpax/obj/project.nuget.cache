@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/+NzfPFfYRQ1BcW/xJBAi+Rk/Gh4UxwcKMszoLN6zDyJjOslG8wsDfodi/2fr51mfrGvMxRMprOW+BRoe585Q==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\AulaSharpax\\AulaSharpax\\AulaSharpax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
