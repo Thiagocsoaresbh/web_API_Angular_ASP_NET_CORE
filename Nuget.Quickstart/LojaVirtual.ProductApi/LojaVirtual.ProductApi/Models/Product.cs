@@ -10,6 +10,6 @@ public class Product
     public string? ImageUrl { get; set; }
 
     public Category? Category { get; set; }
-    public int CategotyId { get; set; }
+    public int CategoryId { get; set; }
 
 }

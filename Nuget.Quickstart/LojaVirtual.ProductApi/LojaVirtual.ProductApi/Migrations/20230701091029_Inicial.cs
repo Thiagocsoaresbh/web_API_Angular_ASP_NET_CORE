@@ -45,8 +45,7 @@ namespace LojaVirtual.ProductApi.Migrations
                     Stock = table.Column<long>(type: "bigint", nullable: false),
                     ImageUrl = table.Column<string>(type: "varchar(255)", maxLength: 255, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    CategoryId = table.Column<int>(type: "int", nullable: false),
-                    CategotyId = table.Column<int>(type: "int", nullable: false)
+                    CategoryId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
