@@ -1334,11 +1334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
+      "projectUniqueName": "c:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
       "projectName": "LojaVirtual.ProductApi",
-      "projectPath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
+      "projectPath": "c:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
       "packagesPath": "C:\\Users\\Vo\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\obj\\",
+      "outputPath": "c:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1349,7 +1349,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1407,19 +1407,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.20, 6.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.20, 6.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.20, 6.0.20]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
+            "version": "[6.0.20, 6.0.20]"
           }
         ],
         "frameworkReferences": {
@@ -1430,7 +1430,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

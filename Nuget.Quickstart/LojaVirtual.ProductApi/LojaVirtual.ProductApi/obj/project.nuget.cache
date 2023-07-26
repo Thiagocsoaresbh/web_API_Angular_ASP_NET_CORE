@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giQObkwC00E6d14db9TV4CWCjcbwVTectKMoquqA7l9EGNgSKkZD6U8i3nO1fj6HZVr0ZO57x68szQF7OPHI1A==",
+  "dgSpecHash": "faKdn/Dh295bN2TnEYhdR8US9uWr4HLZILVoVNr4u0SL3s1+fKRrg/E+D/FjqWjBI5PzBdMxLXbFE0m/DN0TCA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
+  "projectFilePath": "c:\\workspace\\lojaVirtual_MicroServicos_DotNet_Core\\Nuget.Quickstart\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi\\LojaVirtual.ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Vo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
@@ -35,10 +35,10 @@
     "C:\\Users\\Vo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Vo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Vo\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }
